@@ -1,2 +1,3 @@
 #Demo
-Hello Git Hub
+Hello GitHub!
+This is first commit
